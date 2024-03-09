@@ -1,2 +1,1 @@
-# BigDataBowl
-NFL Big Data Bowl 2024
+See the results at [https://www.kaggle.com/code/ashrithanumala/nfl-big-data-bowl-speed-watt](https://www.kaggle.com/code/ashrithanumala/nfl-big-data-bowl-speed-watt)!
